@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surya1729-prog
+- 👋 Hi, I’m @SURYA_NARU-1729
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
